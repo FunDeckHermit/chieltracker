@@ -5,8 +5,8 @@ import srtm4
 from locationsharinglib import Service
 from zoneinfo import ZoneInfo
 
-cookies_file = '/home/roy/chieltracker/google.com_cookies.txt'
-google_email = 'roybotvanlierop@gmail.com'
+cookies_file = '/home/user/chieltracker/google.com_cookies.txt'
+google_email = 'mygooglemailforbots@gmail.com'
 service = Service(cookies_file=cookies_file, authenticating_account=google_email)
 
 gpxtrackfile = '/var/www/hiruventure.nl/chieltrack.gpx'
