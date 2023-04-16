@@ -8,4 +8,4 @@ Made using:
  * [gpx.studio](https://github.com/gpxstudio/gpxstudio.github.io) for displaying the map and overlaying the gpx tracks
 
 # Installation
-Make a virtual environment and get the requirements above. Serve the .gpx and index.html file using Caddy and Bob's your uncle. 
+Make a virtual environment and get the requirements above. Serve the .gpx and index.html file using Caddy and Bob's your uncle. I use a simple cron tab entry to poll for new location data.
