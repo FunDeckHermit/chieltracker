@@ -1,5 +1,5 @@
 # Chiel Tracker
-Tracking my friend during his roadtrip through Japan
+[Tracking my friend](https://hiruventure.nl/) during his roadtrip through Japan
 
 Made using:
  * [locationsharinglib](https://github.com/costastf/locationsharinglib) for Google Location sharing data
